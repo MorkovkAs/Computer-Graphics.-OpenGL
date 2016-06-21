@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL_1", "OpenGL_1\OpenGL_1.vcxproj", "{05D90496-483B-4CDB-8119-92669B965C93}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL_2", "OpenGL_2\OpenGL_2.vcxproj", "{54716CE6-1CB2-4BD8-B7F4-FF5359D8C5BD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL_4", "OpenGL_4\OpenGL_4.vcxproj", "{AFECF3A1-3597-4595-BB65-277F52CEE07D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL_5", "OpenGL_5\OpenGL_5.vcxproj", "{86012F0B-49FB-4B22-943C-66748E9268B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL_3", "OpenGL_3\OpenGL_3.vcxproj", "{6AC7F89A-70DD-4879-96D8-A0CFFF04C7A9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL_6", "OpenGL_6\OpenGL_6.vcxproj", "{347289E6-4A86-4751-A659-F0747338D281}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL_55", "OpenGL_55\OpenGL_55.vcxproj", "{3510867F-51C8-420D-BF32-FB75E02468C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CG16", "CG16\CG16.vcxproj", "{CFF5F597-570B-42F0-A3EB-0EAAE31D3D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D90496-483B-4CDB-8119-92669B965C93}.Debug|Win32.ActiveCfg = Debug|Win32
+		{05D90496-483B-4CDB-8119-92669B965C93}.Debug|Win32.Build.0 = Debug|Win32
+		{05D90496-483B-4CDB-8119-92669B965C93}.Release|Win32.ActiveCfg = Release|Win32
+		{05D90496-483B-4CDB-8119-92669B965C93}.Release|Win32.Build.0 = Release|Win32
+		{54716CE6-1CB2-4BD8-B7F4-FF5359D8C5BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54716CE6-1CB2-4BD8-B7F4-FF5359D8C5BD}.Debug|Win32.Build.0 = Debug|Win32
+		{54716CE6-1CB2-4BD8-B7F4-FF5359D8C5BD}.Release|Win32.ActiveCfg = Release|Win32
+		{54716CE6-1CB2-4BD8-B7F4-FF5359D8C5BD}.Release|Win32.Build.0 = Release|Win32
+		{AFECF3A1-3597-4595-BB65-277F52CEE07D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFECF3A1-3597-4595-BB65-277F52CEE07D}.Debug|Win32.Build.0 = Debug|Win32
+		{AFECF3A1-3597-4595-BB65-277F52CEE07D}.Release|Win32.ActiveCfg = Release|Win32
+		{AFECF3A1-3597-4595-BB65-277F52CEE07D}.Release|Win32.Build.0 = Release|Win32
+		{86012F0B-49FB-4B22-943C-66748E9268B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86012F0B-49FB-4B22-943C-66748E9268B1}.Debug|Win32.Build.0 = Debug|Win32
+		{86012F0B-49FB-4B22-943C-66748E9268B1}.Release|Win32.ActiveCfg = Release|Win32
+		{86012F0B-49FB-4B22-943C-66748E9268B1}.Release|Win32.Build.0 = Release|Win32
+		{6AC7F89A-70DD-4879-96D8-A0CFFF04C7A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6AC7F89A-70DD-4879-96D8-A0CFFF04C7A9}.Debug|Win32.Build.0 = Debug|Win32
+		{6AC7F89A-70DD-4879-96D8-A0CFFF04C7A9}.Release|Win32.ActiveCfg = Release|Win32
+		{6AC7F89A-70DD-4879-96D8-A0CFFF04C7A9}.Release|Win32.Build.0 = Release|Win32
+		{347289E6-4A86-4751-A659-F0747338D281}.Debug|Win32.ActiveCfg = Debug|Win32
+		{347289E6-4A86-4751-A659-F0747338D281}.Debug|Win32.Build.0 = Debug|Win32
+		{347289E6-4A86-4751-A659-F0747338D281}.Release|Win32.ActiveCfg = Release|Win32
+		{347289E6-4A86-4751-A659-F0747338D281}.Release|Win32.Build.0 = Release|Win32
+		{3510867F-51C8-420D-BF32-FB75E02468C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3510867F-51C8-420D-BF32-FB75E02468C3}.Debug|Win32.Build.0 = Debug|Win32
+		{3510867F-51C8-420D-BF32-FB75E02468C3}.Release|Win32.ActiveCfg = Release|Win32
+		{3510867F-51C8-420D-BF32-FB75E02468C3}.Release|Win32.Build.0 = Release|Win32
+		{CFF5F597-570B-42F0-A3EB-0EAAE31D3D2D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFF5F597-570B-42F0-A3EB-0EAAE31D3D2D}.Debug|Win32.Build.0 = Debug|Win32
+		{CFF5F597-570B-42F0-A3EB-0EAAE31D3D2D}.Release|Win32.ActiveCfg = Release|Win32
+		{CFF5F597-570B-42F0-A3EB-0EAAE31D3D2D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
